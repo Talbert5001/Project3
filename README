@@ -1,15 +1,15 @@
 WELCOME TO TALBERT AND CHRIS CLI
-COMMANDS INCLUDE
+Highlighting the First come first Serve Scheduler
 
-RUN ./a.out
-ls
-cd
-add
-subtract
-exit
-help
-bot
+Start by opening the command line 
+./a.out
 
-page (filename.txt)
-#the filename is page.txt so type this: page page.txt
-#This will start the paging process
+Next, run the scheduler with command by typing
+
+$ scheduler helloworld; timer ; date ; ls
+
+This will do a mixture of run executable files which will you see by running ls 
+
+type 
+$ help
+if you get lost.
