@@ -187,15 +187,15 @@ int sched(){
 			} 
 			
 		}
-		if(a == 4) {
+		if(a == 5) {
 			ls();
 		}
-		if(a == 5) {
+		if(a == 4) {
 		        time_t t = time(NULL);
   			struct tm tm = *localtime(&t);
   			printf("\n now: %d-%02d-%02d %02d:%02d:%02d\n", tm.tm_year + 1900, tm.tm_mon + 1, tm.tm_mday, tm.tm_hour, tm.tm_min, tm.tm_sec);
 		}
-		printf("%d miliseconds to run",rand());
+		printf("\n %d miliseconds to run \n",rand() % (200 + 1 - 50)+ 50);
 
 		a++;
 	}
