@@ -1,4 +1,25 @@
 WELCOME TO TALBERT AND CHRIS CLI
+
+For the File Managment - Project 4
+
+Create - create (filename)
+Rename - rename (old filename)
+    then will prompt you with instructions on renaming
+Remove - rm (filename)
+Move - mv
+    then will prompt you with questions about moving file.
+Create Directory - mkdir (directory name)
+Rename Directory - rename (directory name)
+Remove Directory -rm (directory name)
+Read - cat (filename)
+Copy - copy
+    enter in copy process.
+Copy Directory - copy
+Read Directory Tree- cat (directory name)
+
+
+
+
 Highlighting the First come first Serve Scheduler
 
 Start by opening the command line 
